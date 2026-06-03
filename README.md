@@ -6,20 +6,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/vskarthik404">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vskarthik404&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="vskarthik404's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=vskarthik404&theme=monokai&hide_border=true&cache_seconds=86400" alt="vskarthik404's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=vskarthik404&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="V S Karthik's GitHub Trophies" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
