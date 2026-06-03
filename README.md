@@ -6,6 +6,10 @@
   </a>
 </p>
 
+## 👨‍💻 About Me
+
+Passionate Python Full Stack Developer skilled in Django, Django REST Framework, React.js, JavaScript, and modern web technologies. Experienced in building responsive web applications, secure REST APIs, and database-driven solutions. Currently focused on developing scalable full-stack applications while continuously learning new technologies and best practices in software development.
+
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
@@ -64,6 +68,7 @@
 </p>
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="www.linkedin.com/in/v-s-karthik"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="V S Karthik's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:vskarthik8865@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="V S Karthik's Email"/></a>
@@ -78,4 +83,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
-
